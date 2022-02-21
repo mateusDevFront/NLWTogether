@@ -19,4 +19,5 @@ App desenvolvido durante a Mission React Native
 
 ## Roadmap
 - Adicionar mais integrações ( EM BREVE )
+- Protótipo do APP - https://www.figma.com/community/file/991338130828322960
 
