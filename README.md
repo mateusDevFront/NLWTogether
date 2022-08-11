@@ -3,6 +3,7 @@
 
 App desenvolvido durante a Mission React Native
 - NLW TOGHETER da ROCKETSEAT 
+![App Screenshot](https://i.imgur.com/NpVJk6s.png)
 
 ## TECNOLOGIAS
 
